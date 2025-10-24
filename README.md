@@ -14,7 +14,7 @@ El sistema mantiene un **registro (log)** de los eventos relevantes y permite al
 
 1. Si es necesario, dale permisos de ejecución al fichero: `chmod +x safe_exam`.
 2. Cierra todas las demás aplicaciones y ventanas.
-3. Descarga el fichero ++config.yaml` que te dará el profesor y ponlo en el mismo directorio que el ejecutable.
+3. Descarga el fichero `config.yaml` que te dará el profesor y ponlo en el mismo directorio que el ejecutable.
 4. No uses combinaciones de teclas (Alt+Tab, Ctrl+T, etc.) durante el examen.
 5. Una vez abierto, el programa **no permite salir** salvo confirmación explícita.
 
