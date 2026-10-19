@@ -6,7 +6,7 @@ El programa abre una ventana a pantalla completa, bloquea menús y accesos exter
 
 El sistema mantiene un **registro (log)** de los eventos relevantes y permite al profesor intervenir en caso necesario mediante combinaciones de teclas especiales.
 
-[Descarga](https://github.com/josedom24/safe_exam/releases/download/latest/safe_exam) la última versión.
+[Descarga](https://github.com/josedom24/safe_exam/releases/latest/download/safe_exam) la última versión.
 
 ## Guía para alumnos
 
